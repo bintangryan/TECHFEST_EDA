@@ -1,7 +1,5 @@
 # 📊 DATA ANALYTICS TECHFEST 2025: Efektivitas Penyaluran Dana Transfer ke Daerah (TKDD)
-
 ## Studi Perbandingan Pagu dan Realisasi TKDD di Provinsi-Provinsi Indonesia Tahun 2023
-
 ---
 
 ## 👥 Tim Kami
