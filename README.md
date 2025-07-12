@@ -69,10 +69,10 @@ Bagian ini membahas eksplorasi data secara sistematis untuk menjawab lima rumusa
 
 Data diurutkan berdasarkan nilai nominal realisasi (`Realisasi TKDD`) dan persentase realisasi (`Persentase Realisasi TKDD`) untuk mengidentifikasi provinsi dengan serapan anggaran terbesar/terkecil dan efektivitas penyerapan anggaran.
 
-* **Provinsi dengan Realisasi TKDD Tertinggi (Nominal)**: Provinsi **Jawa Barat** memiliki realisasi TKDD tertinggi secara nominal dengan sekitar **Rp81,92 triliun**.
-* **Provinsi dengan Realisasi TKDD Terendah (Nominal)**: Provinsi **Papua Pegunungan** memiliki realisasi TKDD terendah secara nominal dengan sekitar **Rp12,82 triliun**.
-* **Provinsi dengan Persentase Realisasi TKDD Tertinggi**: Provinsi **Kalimantan Timur** memiliki persentase realisasi TKDD tertinggi, mencapai **113,87%**. Ini menunjukkan penyerapan dana yang sangat efektif dan efisien, bahkan melebihi target.
-* **Provinsi dengan Persentase Realisasi TKDD Terendah**: Provinsi **DI Yogyakarta** memiliki persentase realisasi TKDD terendah, yaitu **98.89%**. Meskipun terendah, nilai ini masih tergolong sangat tinggi (di atas 90%), mengindikasikan bahwa seluruh provinsi di Indonesia berhasil merealisasikan TKDD mereka dengan sangat baik pada tahun 2023.
+* **Provinsi dengan Realisasi TKDD Tertinggi (Nominal)**: Provinsi **Jawa Timur** memiliki realisasi tertinggi dengan total **Rp81,92 triliun**, mencerminkan skala pemerintahan daerah yang besar, kebutuhan fiskal tinggi, dan populasi yang padat.
+* **Provinsi dengan Realisasi TKDD Terendah (Nominal)**: Provinsi **Gorontalo** mencatat realisasi TKDD sebesar **Rp6,16 triliun**, menjadi provinsi dengan jumlah anggaran TKDD yang paling kecil secara absolut di antara semua provinsi. Hal ini dapat disebabkan oleh kapasitas fiskal yang lebih kecil serta cakupan geografis dan jumlah penduduk yang relatif rendah.
+* **Provinsi dengan Persentase Realisasi TKDD Tertinggi**: Provinsi **Kalimantan Timur** mencatat persentase realisasi sebesar **110,98%**, menandakan bahwa serapan anggaran melampaui target pagu yang ditetapkan. Hal ini bisa menunjukkan adanya kebutuhan tambahan dana, atau perubahan ketetapan pagu di tengah tahun anggaran.
+* **Provinsi dengan Persentase Realisasi TKDD Terendah**: Provinsi **Papua** hanya merealisasikan **94,32%** dari total pagu anggaran TKDD. Meskipun tidak masuk kategori “rendah” (<90%), nilai ini menunjukkan bahwa masih terdapat gap serapan anggaran yang bisa diperbaiki. Faktor geografis dan infrastruktur dapat menjadi hambatan realisasi di wilayah ini.
 
 ### 2.3 Faktor-faktor yang Mempengaruhi Tinggi-Rendahnya Realisasi TKDD
 
