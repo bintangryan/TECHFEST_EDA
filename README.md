@@ -85,16 +85,57 @@ A. Analisis Bivariat – Korelasi Antar Variabel
 B. Analisis Multivariat – Regresi Linear OLS  
 Untuk melihat kontribusi simultan berbagai variabel terhadap `Realisasi TKDD`, dilakukan regresi linear berganda.  
 1. Uji Multikolinearitas dengan VIF  
-2. Model Regresi OLS  
+2. Model Regresi OLS
+
+**Urutan Faktor yang Paling Mempengaruhi Realisasi TKDD:**
+
+Dari hasil gabungan **analisis bivariat dan multivariat**, berikut adalah urutan kekuatan pengaruh terhadap realisasi TKDD (dari paling besar hingga kecil):
+
+1. **Pagu TKDD** *(dikeluarkan dari regresi, namun korelasinya sangat kuat → secara logis menjadi dasar realisasi)*
+2. **PDRB ADHB (Harga Berlaku)** *(dikeluarkan dari model karena VIF tinggi, namun tetap signifikan secara korelasi)*
+3. ✅ **Jumlah Penduduk**
+4. ✅ **IPM (Indeks Pembangunan Manusia)**
+5. ✅ **Anggaran APBN per Kapita**
+6. ⚠️ **Persentase Penduduk Miskin**
+7. ❌ **PDRB per Kapita**
+8. ❌ **Laju Pertumbuhan PDRB**
+
+Hasil dari analisis bivariat dan multivariat secara umum **saling mendukung**, memperkuat keyakinan bahwa faktor-faktor yang ditemukan memang berkontribusi nyata terhadap besarnya realisasi anggaran.
+Temuan ini penting untuk menjadi dasar evaluasi dan perencanaan distribusi anggaran daerah yang **berbasis kebutuhan nyata dan kapasitas riil masing-masing provinsi**.
 
 ### 2.4 Hubungan antara Realisasi TKDD dan IPM
 
 Dilakukan analisis korelasi antara `Persentase Realisasi TKDD` dan `IPM` (Indeks Pembangunan Manusia) untuk memahami apakah efektivitas penyerapan anggaran berkorelasi dengan tingkat pembangunan manusia di suatu provinsi.
 
+Hasil analisis menunjukkan bahwa:
+- **Hubungan antara IPM dan persentase realisasi TKDD** memiliki korelasi lebih kuat (**0.42**) dibandingkan dengan hubungan IPM dan nominal realisasi (**0.27**).
+- Artinya, **efektivitas penyerapan anggaran (kualitas eksekusi)** lebih berdampak terhadap capaian IPM daripada sekadar besarnya dana yang dikucurkan.
+
+Sebagai contoh:
+- **DI Yogyakarta** berhasil mencapai IPM tinggi meskipun realisasi TKDD-nya tidak sebesar provinsi lain, menunjukkan efisiensi dan kualitas pengelolaan anggaran yang baik.
+- Sebaliknya, provinsi dengan dana besar tetapi rendah dalam efektivitas penyerapan cenderung tidak optimal dalam meningkatkan IPM-nya.
+
+👉 Dengan demikian, **kemampuan manajerial dan tata kelola fiskal daerah** dalam mengeksekusi anggaran menjadi faktor yang lebih krusial dibanding hanya besaran nominal anggaran itu sendiri.
+
 
 ### 2.5 Faktor-faktor yang Mempengaruhi IPM Tiap Provinsi
 
-Untuk mengidentifikasi faktor-faktor yang memengaruhi IPM, dilakukan analisis korelasi dan regresi multivariat terhadap variabel-variabel yang relevan.
+Berdasarkan analisis korelasi, berikut adalah poin-poin penting yang dapat disimpulkan:
 
+1. PDRB (Produk Domestik Regional Bruto) — baik total maupun per kapita — menunjukkan hubungan positif sedang terhadap IPM. Ini menandakan bahwa provinsi dengan aktivitas ekonomi yang lebih besar cenderung memiliki indeks pembangunan manusia yang lebih tinggi.
+
+2. Persentase Realisasi TKDD juga berkorelasi positif sedang terhadap IPM, yang menunjukkan bahwa efektivitas penyerapan anggaran daerah turut berperan dalam peningkatan kualitas hidup masyarakat.
+
+3. Realisasi dan Pagu TKDD (nominal) hanya menunjukkan korelasi lemah terhadap IPM. Hal ini menegaskan bahwa jumlah dana saja tidak cukup, melainkan kemampuan dalam mengelola dan menyalurkan anggaran jauh lebih penting untuk mendorong pembangunan manusia.
+
+4. Persentase Penduduk Miskin memiliki korelasi negatif sangat kuat (-0.81) terhadap IPM. Ini artinya, semakin tinggi angka kemiskinan di suatu provinsi, semakin rendah pula nilai IPM-nya. Kemiskinan terbukti menjadi faktor penghambat utama dalam pencapaian pembangunan manusia.
+
+5. Variabel seperti Anggaran APBN per kapita, jumlah penduduk, dan laju pertumbuhan ekonomi memiliki korelasi rendah bahkan nyaris netral terhadap IPM, sehingga pengaruhnya terhadap peningkatan kualitas hidup masih belum terlalu signifikan jika berdiri sendiri.
+
+Dengan demikian, untuk meningkatkan IPM secara menyeluruh, daerah perlu:
+
+1. Mendorong pertumbuhan ekonomi yang inklusif,
+2. Meningkatkan efisiensi penyerapan anggaran, dan
+3. Mengarahkan kebijakan secara terukur untuk menurunkan tingkat kemiskinan, sebagai fondasi utama peningkatan IPM.
 
 ---
